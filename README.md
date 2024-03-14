@@ -3,7 +3,7 @@
 
 ## Problem Statement
 
-This dashboard helps the organization understand their customers better. It helps the organization know if their sales insights. Through different KPI's, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average sales & profit, thus since by using this dashboard they have identified this problem, they can further work on better profit margins.
+This dashboard helps the organization understand their customers better. It helps the organization know of their sales insights. Through different KPI's, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average sales & profit, thus since by using this dashboard they have identified this problem, they can further work on better profit margins.
  
  
  # Report Snapshot (Power BI DESKTOP)
