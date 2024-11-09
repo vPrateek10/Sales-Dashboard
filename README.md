@@ -38,3 +38,7 @@ This dashboard helps the organization understand their customers better. It help
   (k) Online boarding
   (l) Seat comfort
   (m) Departure & arrival time convenience
+  
+In our dataset, Some parameters were assigned value 0, representing those parameters are not applicable for some customers.
+
+All these values have been ignored while calculating average rating for each of the parameters mentioned above.
